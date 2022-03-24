@@ -15,7 +15,7 @@ This section contains links to military Web sites and other related material for
 
 [Department of Homeland Security](http://www.dhs.gov/index.shtm)
 
-*   Organization Chart (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/bank.pdf))
+*   Organization Chart ([PDF](http://siteresources.worldbank.org/EXTABOUTUS/Resources/bank.pdf))
 
 [U.S. Army](http://www.army.mil/)
 
